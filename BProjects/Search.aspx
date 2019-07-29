@@ -20,7 +20,6 @@
 		<input type="hidden" name="value" value="" />
     </form>
 
-    <div class="marginD"><%=RenderDocumentHeader()%></div>  
     <div id="divContainer">
         <div id="divMyTreeContainer" class="ui-widget-content">
             <cstv:TreeView runat="server" ID="tvProject"/>
