@@ -62,6 +62,7 @@ namespace Kesco.App.Web.V4.BProjects
             tvProject.NodeNameHeader = "Бизнес-проект";
             tvProject.ShowTopNodesInSearchResult = false;
             tvProject.HelpButtonVisible = true;
+            tvProject.LikeButtonVisible = true;
         }
 
         /// <summary>
